@@ -9,19 +9,19 @@
     "hardSkills": [
       {
         "name": "JavaScript",
-        "logo": "/data/imgs/js.png"
+        "logo": "./data/imgs/js.png"
       },
       {
         "name": "Angular",
-        "logo": "/data/imgs/angular.png"
+        "logo": "./data/imgs/angular.png"
       },
       {
         "name": "Java",
-        "logo": "/data/imgs/java.png"
+        "logo": "./data/imgs/java.png"
       },
        {
         "name": "MySQL",
-        "logo": "/data/imgs/mysql.png"
+        "logo": "./data/imgs/mysql.png"
       }
     ],
     "softSkills": [
