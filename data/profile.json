@@ -8,16 +8,20 @@
   "skills": {
     "hardSkills": [
       {
-        "nome": "Android",
-        "logo": "TODO"
+        "name": "JavaScript",
+        "logo": "/data/imgs/js.png"
       },
       {
-        "nome": "Java",
-        "logo": "TODO"
+        "name": "Angular",
+        "logo": "/data/imgs/angular.png"
       },
       {
-        "nome": "Kotlin",
-        "logo": "TODO"
+        "name": "Java",
+        "logo": "/data/imgs/java.png"
+      },
+       {
+        "name": "MySQL",
+        "logo": "/data/imgs/mysql.png"
       }
     ],
     "softSkills": [
